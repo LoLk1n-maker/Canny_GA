@@ -17,7 +17,7 @@ Python + OpenCV + Tkinter. Лабораторная работа по дисци
 <img width="1011" height="544" alt="image" src="https://github.com/user-attachments/assets/4a0a2489-20af-41f4-957e-ef5e577d9b44" />
 
 
-**Пример на «сложном» изображении** (где фиксированные пороги явно проигрывают)
+**Пример на «сложном» изображении**
 
 <img width="1014" height="545" alt="image" src="https://github.com/user-attachments/assets/6195637d-306a-4b12-95a9-675e3eda2db1" />
 
