@@ -1,0 +1,22 @@
+## Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+## Среды разработки
+.vscode/
+.idea/
+*.iml
+
+## Результаты работы программы
+*_canny_ga.png
+*_canny_default.png
+out/
+output/
+
+## Мусор ОС
+Thumbs.db
+desktop.ini
+.DS_Store
